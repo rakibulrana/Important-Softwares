@@ -1,0 +1,13 @@
+1. RescueTime: a web-based management tool that helps you monitor your time and understand your daily habits so you can set your focus and be more productive.
+
+
+2. f.lux: Eye Care: Protect your eyes while you working on computer at night
+3. Wunderlist : To-Do List and Tasks
+4. Bee Minder (similar like Rescue Time)
+5. Sourcify : Check this for your business
+6. Jira. 
+7. Asana : similar like Jira
+
+Library and applications for me current future prospects
+-  Selenium : Web scraping using google chrome
+-  Beautiful Soup for pulling data out of HTML and XML files
