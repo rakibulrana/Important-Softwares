@@ -11,3 +11,4 @@
 Library and applications for me current future prospects
 -  Selenium : Web scraping using google chrome
 -  Beautiful Soup for pulling data out of HTML and XML files
+-  Jupyter Notebook
